@@ -34,7 +34,10 @@
 
 ## Android:
 
-![Splash Screen](screenshots/android/splashScreenRounded.png?raw=true 'Splash') | ![Home Screen](screenshots/android/homeScreenRounded.png?raw=true 'Home')
+| Splash Screen | Home Screen |
+| :-----------: | :---------: |
+
+![](screenshots/android/splashScreenRounded.png?raw=true 'Splash') | ![](screenshots/android/homeScreenRounded.png?raw=true 'Home')
 
 ![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') | ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
 
