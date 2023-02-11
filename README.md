@@ -35,10 +35,15 @@
 ## Android:
 
 <img src="screenshots/android/splashScreenRounded.png" width="45%" />
+
 <img src="screenshots/android/homeScreenRounded.png" width="45%" />
+
 <img src="screenshots/android/marketScreenRounded.png" width="45%" />
+
 <img src="screenshots/android/portfolioScreenRounded.png" width="45%" />
+
 <img src="screenshots/android/transactionDetailsRounded.png" width="45%" />
+
 <img src="screenshots/android/profileScreenRounded.png" width="45%" />
 
 ## ios
