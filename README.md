@@ -34,17 +34,11 @@
 
 ## Android:
 
-![Splash Screen](screenshots/android/splashScreenRounded.png?raw=true 'Splash')
+![Splash Screen](screenshots/android/splashScreenRounded.png?raw=true 'Splash') | ![Home Screen](screenshots/android/homeScreenRounded.png?raw=true 'Home')
 
-![Home Screen](screenshots/android/homeScreenRounded.png?raw=true 'Home')
+![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') | ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
 
-![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market')
-
-![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
-
-![Transaction Details](screenshots/android/transactionDetailsRounded.png?raw=true 'Transaction Details')
-
-![Profile Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Profile')
+![Transaction Details](screenshots/android/transactionDetailsRounded.png?raw=true 'Transaction Details') | ![Profile Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Profile')
 
 ## ios
 
