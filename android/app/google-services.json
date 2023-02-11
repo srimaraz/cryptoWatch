@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "808076221545",
+    "project_id": "cryptowatcher-3b764",
+    "storage_bucket": "cryptowatcher-3b764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808076221545:android:0e332b40ca8fca240056f8",
+        "android_client_info": {
+          "package_name": "com.cryptowatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808076221545-qpikgvecltpd9f0gcn8vens0ltbq5hfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cryptowatch",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "808076221545-puk8evb4rllm13f8mes50er4ou6cvlvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP39WR-8WoMyBl-v3_ZJWO1tJUjO37hjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808076221545-puk8evb4rllm13f8mes50er4ou6cvlvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808076221545-u3qj3nco3hnvb0lc0o9d27fbi6togc36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.cryptoWatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

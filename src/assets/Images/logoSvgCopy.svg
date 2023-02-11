@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256px" height="256px">
+    <linearGradient id="zaKHqmnMd~JRxok0DNF3ma" x1="19.048" x2="19.048" y1="16.617" y2="33.431" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#6dc7ff"/>
+        <stop offset="1" stop-color="#e6abff"/>
+    </linearGradient>
+    <path fill="url(#zaKHqmnMd~JRxok0DNF3ma)" d="M21.762,15.677L8.925,28.266c-2.378,2.332-2.349,6.17,0.064,8.465l5.759,5.479l16.189-16.759	L21.762,15.677z"/>
+    <linearGradient id="zaKHqmnMd~JRxok0DNF3mb" x1="42.952" x2="42.952" y1="16.617" y2="33.431" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#6dc7ff"/>
+        <stop offset="1" stop-color="#e6abff"/>
+    </linearGradient>
+    <polygon fill="url(#zaKHqmnMd~JRxok0DNF3mb)" points="42.394,15.968 33.043,25.451 43.16,35.72 52.862,26.021"/>
+    <linearGradient id="zaKHqmnMd~JRxok0DNF3mc" x1="32" x2="32" y1="4.83" y2="57.749" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#zaKHqmnMd~JRxok0DNF3mc)" d="M55.965,27.085L36.916,8.035C35.602,6.723,33.856,6,32,6c-1.857,0-3.603,0.723-4.914,2.035	L8.036,27.086C6.723,28.398,6,30.144,6,32c0,1.857,0.724,3.603,2.036,4.914l19.05,19.052C28.398,57.277,30.144,58,32,58	c1.857,0,3.603-0.723,4.913-2.035l19.051-19.05c1.302-1.301,2.024-3.031,2.035-4.871C58.012,30.171,57.29,28.41,55.965,27.085z M52.027,25.975l-9.15,9.035l0.609,0.617L33.419,25.561l9.095-9.099L52.027,25.975z M28.5,9.449C29.435,8.515,30.677,8,32,8	c1.322,0,2.566,0.515,3.502,1.449l5.598,5.598l-9.096,9.099l-9.102-9.1L28.5,9.449z M8,32c0-1.322,0.515-2.564,1.45-3.5	l12.038-12.039l9.102,9.1L15.055,41.104L9.45,35.499C8.515,34.565,8,33.322,8,32z M35.498,54.551C34.565,55.485,33.323,56,32,56	c-1.322,0-2.565-0.515-3.5-1.449L16.469,42.518l15.536-15.543l15.536,15.534L35.498,54.551z M54.55,35.501l-5.594,5.594	l-4.669-4.668l9.154-9.039l1.111,1.111c0.943,0.944,1.458,2.198,1.448,3.533C55.991,33.342,55.477,34.574,54.55,35.501z"/>
+</svg>
