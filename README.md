@@ -37,6 +37,11 @@
 | Splash Screen | Home Screen |
 | :-----------: | :---------: |
 
+<p float="left">
+  <img src="screenshots/android/splashScreenRounded.png" width="45%" />
+  <img src="screenshots/android/homeScreenRounded.png" width="45%" />
+</p>
+
 ![](screenshots/android/splashScreenRounded.png 'Splash') | ![](screenshots/android/homeScreenRounded.png 'Home')
 
 ![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
