@@ -39,7 +39,7 @@
 
 ![](screenshots/android/splashScreenRounded.png 'Splash') | ![](screenshots/android/homeScreenRounded.png 'Home')
 
-![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') | ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
+![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
 
 ![Transaction Details](screenshots/android/transactionDetailsRounded.png?raw=true 'Transaction Details') | ![Profile Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Profile')
 
