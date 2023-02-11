@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0,0,256,256" width="256px" height="256px" fill-rule="nonzero">
+    <defs>
+        <linearGradient x1="19.048" y1="16.617" x2="19.048" y2="33.431" gradientUnits="userSpaceOnUse" id="color-1">
+            <stop offset="0" stop-color="#6dc7ff"></stop>
+            <stop offset="1" stop-color="#e6abff"></stop>
+        </linearGradient>
+        <linearGradient x1="42.952" y1="16.617" x2="42.952" y2="33.431" gradientUnits="userSpaceOnUse" id="color-2">
+            <stop offset="0" stop-color="#6dc7ff"></stop>
+            <stop offset="1" stop-color="#e6abff"></stop>
+        </linearGradient>
+        <linearGradient x1="32" y1="4.83" x2="32" y2="57.749" gradientUnits="userSpaceOnUse" id="color-3">
+            <stop offset="0" stop-color="#1a6dff"></stop>
+            <stop offset="1" stop-color="#bd00fc"></stop>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+        <g transform="scale(4,4)">
+            <path d="M21.762,15.677l-12.837,12.589c-2.378,2.332 -2.349,6.17 0.064,8.465l5.759,5.479l16.189,-16.759z" fill="url(#color-1)"></path>
+            <path d="M42.394,15.968l-9.351,9.483l10.117,10.269l9.702,-9.699z" fill="url(#color-2)"></path>
+            <path d="M55.965,27.085l-19.049,-19.05c-1.314,-1.312 -3.06,-2.035 -4.916,-2.035c-1.857,0 -3.603,0.723 -4.914,2.035l-19.05,19.051c-1.313,1.312 -2.036,3.058 -2.036,4.914c0,1.857 0.724,3.603 2.036,4.914l19.05,19.052c1.312,1.311 3.058,2.034 4.914,2.034c1.857,0 3.603,-0.723 4.913,-2.035l19.051,-19.05c1.302,-1.301 2.024,-3.031 2.035,-4.871c0.013,-1.873 -0.709,-3.634 -2.034,-4.959zM52.027,25.975l-9.15,9.035l0.609,0.617l-10.067,-10.066l9.095,-9.099zM28.5,9.449c0.935,-0.934 2.177,-1.449 3.5,-1.449c1.322,0 2.566,0.515 3.502,1.449l5.598,5.598l-9.096,9.099l-9.102,-9.1zM8,32c0,-1.322 0.515,-2.564 1.45,-3.5l12.038,-12.039l9.102,9.1l-15.535,15.543l-5.605,-5.605c-0.935,-0.934 -1.45,-2.177 -1.45,-3.499zM35.498,54.551c-0.933,0.934 -2.175,1.449 -3.498,1.449c-1.322,0 -2.565,-0.515 -3.5,-1.449l-12.031,-12.033l15.536,-15.543l15.536,15.534zM54.55,35.501l-5.594,5.594l-4.669,-4.668l9.154,-9.039l1.111,1.111c0.943,0.944 1.458,2.198 1.448,3.533c-0.009,1.31 -0.523,2.542 -1.45,3.469z" fill="url(#color-3)"></path>
+        </g>
+    </g>
+</svg>
