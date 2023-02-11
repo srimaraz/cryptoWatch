@@ -34,23 +34,12 @@
 
 ## Android:
 
-| Splash Screen | Home Screen |
-| :-----------: | :---------: |
-
-<!-- <p float="left"> -->
-  <img src="screenshots/android/splashScreenRounded.png" width="60%" />
-  <img src="screenshots/android/homeScreenRounded.png" width="60%" />
-  <img src="screenshots/android/marketScreenRounded.png" width="60%" />
-  <img src="screenshots/android/portfolioScreenRounded.png" width="60%" />
-  <img src="screenshots/android/transactionDetailsRounded.png" width="60%" />
-  <img src="screenshots/android/profileScreenRounded.png" width="60%" />
-<!-- </p> -->
-
-![](screenshots/android/splashScreenRounded.png 'Splash') | ![](screenshots/android/homeScreenRounded.png 'Home')
-
-![Market Screen](screenshots/android/marketScreenRounded.png?raw=true 'Market') ![Portfolio Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Portfolio')
-
-![Transaction Details](screenshots/android/transactionDetailsRounded.png?raw=true 'Transaction Details') | ![Profile Screen](screenshots/android/portfolioScreenRounded.png?raw=true 'Profile')
+<img src="screenshots/android/splashScreenRounded.png" width="45%" />
+<img src="screenshots/android/homeScreenRounded.png" width="45%" />
+<img src="screenshots/android/marketScreenRounded.png" width="45%" />
+<img src="screenshots/android/portfolioScreenRounded.png" width="45%" />
+<img src="screenshots/android/transactionDetailsRounded.png" width="45%" />
+<img src="screenshots/android/profileScreenRounded.png" width="45%" />
 
 ## ios
 
